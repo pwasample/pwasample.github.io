@@ -1,5 +1,5 @@
 // INIT VARIABLES
-var root = 'http://pwasample.github.io/';
+var root = 'https://pwasample.github.io/';
 var useHash = false;
 var router = new Navigo(root, useHash, '#');
 var modal = document.getElementById('modal-preloader');
