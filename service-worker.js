@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pwasample-v1';
+const CACHE_NAME = 'pwasample-v2';
 var urlsToCache = [
 	'/',
 	'/navs.html',
