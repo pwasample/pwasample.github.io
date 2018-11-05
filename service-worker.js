@@ -1,8 +1,9 @@
-const CACHE_NAME = 'firstpwa-v3';
+const CACHE_NAME = 'pwasample-v1';
 var urlsToCache = [
 	'/',
 	'/navs.html',
 	'/index.html',
+	'/404.html',
 	'/pages/home.html',
 	'/pages/about.html',
 	'/pages/contact.html',
@@ -11,6 +12,7 @@ var urlsToCache = [
 	'/js/materialize.min.js',
 	'/js/zepto.min.js',
 	'/js/navigo.min.js',
+	'/js/pages.js',
 	'/js/script.js'
 ];
 
