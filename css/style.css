@@ -1,0 +1,16 @@
+.modal .modal-content {
+	padding: 14px 24px;
+}
+.inline-block-middle {
+	display: inline-block;
+	vertical-align: middle;
+}
+.mt-3 {
+	margin-top: 21px;
+}
+.ml-3 {
+	margin-left: 21px;
+}
+.modal-middle {
+	top: 40% !important;
+}
